@@ -1,0 +1,41 @@
+{
+  "ttn": {
+    "department": [
+      {
+        "name": "Technology",
+        "competency": [
+          {
+            "name": "JVM",
+            "employees": "500",
+            "head": "Raghu"
+          },
+          {
+            "name": "Drupal",
+            "employees": "30",
+            "head": "Karan"
+          },
+          {
+            "name": "Mobility",
+            "employees": "50",
+            "head": "Ken"
+          }
+        ]
+      },
+      {
+        "name": "Management",
+        "competency": [
+          {
+            "name": "Sales",
+            "employees": "30",
+            "head": "Abhishek"
+          },
+          {
+            "name": "HR",
+            "employees": "7",
+            "head": "Karan"
+          }
+        ]
+      }
+    ]
+  }
+}
